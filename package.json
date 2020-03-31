@@ -1,0 +1,30 @@
+{
+  "name": "@fireworkweb/eslint-config",
+  "version": "1.0.0",
+  "description": "Custom eslint config for Firework projects",
+  "homepage": "https://github.com/fireworkweb/eslint-config#readme",
+  "bugs": "https://github.com/fireworkweb/eslint-config/issues",
+  "author": "Firework Web <contact@fireworkweb.com>",
+  "license": "MIT",
+  "main": "js.js",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-config",
+    "javascript",
+    "vue",
+    "vuejs",
+    "rules"
+  ],
+  "peerDependencies": {
+    "eslint": "^5.0.0 || ^6.0.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-eslint-parser": "^7.0.0"
+  }
+}

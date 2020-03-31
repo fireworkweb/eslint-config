@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+.idea
+npm-debug.log
+yarn-error.log
+yarn.output
+.editorconfig
