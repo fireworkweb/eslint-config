@@ -4,12 +4,14 @@ Eslint rule configs for Javascript and Vue.js projects.
 
 ## Installation
 
+To install, add it with `eslint` to your dev dependencies.
+
 ```bash
 # With yarn
-yarn add -D @fireworkweb/eslint-config
+yarn add -D eslint @fireworkweb/eslint-config
 
 # With npm
-npm install --dev  @fireworkweb/eslint-config
+npm install --dev eslint @fireworkweb/eslint-config
 ```
 
 ## Usage
@@ -30,6 +32,22 @@ module.exports = {
     ],
 };
 ```
+
+Also, you should add this script to your `package.json`:
+
+```json
+{
+    // ...
+    "scripts": {
+        // ...
+        "lint": "eslint --ext js,vue,jsx ."
+    }
+}
+```
+
+You should customize the extensions (`--ext` parameter) to fit your needs.
+
+Then you can run `yarn lint` or `npm run lint`. To automatically fix some of the errors, you can add `--fix` to the lint command.
 
 ### Custom Rules
 
