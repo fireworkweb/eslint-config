@@ -12,7 +12,7 @@ module.exports = {
         'jsx-quotes': ['error', 'prefer-single'],
         'object-curly-spacing': 'off',
         'react/prop-types': 0,
-        'react/jsx-max-props-per-line': ['error', {'maximum': 1, 'when': 'always' }],
+        'react/jsx-max-props-per-line': ['error', { 'maximum': 1, 'when': 'always' }],
         'react/jsx-first-prop-new-line': ['error', 'multiline-multiprop'],
         'react/jsx-closing-bracket-location': ['error', 'tag-aligned'],
         'react/jsx-closing-tag-location': 'error',

@@ -5,3 +5,5 @@ npm-debug.log
 yarn-error.log
 yarn.output
 .editorconfig
+.eslintrc.js
+.github/

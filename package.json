@@ -14,8 +14,12 @@
     "javascript",
     "vue",
     "vuejs",
+    "react",
     "rules"
   ],
+  "scripts": {
+    "lint": "eslint --ext js ."
+  },
   "peerDependencies": {
     "eslint": "^5.0.0 || ^6.0.0"
   },

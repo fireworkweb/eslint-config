@@ -33,7 +33,7 @@ module.exports = {
         'space-before-function-paren': 'error',
         'spaced-comment': 'error',
         'arrow-spacing': 'error',
-        'key-spacing': [2, {'beforeColon': false, 'afterColon': true}],
+        'key-spacing': [2, { 'beforeColon': false, 'afterColon': true }],
         'keyword-spacing': 'error',
         'semi': ['error', 'always'],
         'dot-location': ['error', 'property'],
