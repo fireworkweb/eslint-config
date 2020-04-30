@@ -86,5 +86,5 @@ module.exports = {
 
 ## Collaborators
 
-| [<img src="https://avatars0.githubusercontent.com/u/11093090?v=3&s=115" width="115"><br><sub>@gabrielboliveira</sub>](https://github.com/nkabz) | [<img src="https://avatars3.githubusercontent.com/u/17432496?v=3&s=115" width="115"><br><sub>@nkabz</sub>](https://github.com/nkabz) |
+| [<img src="https://avatars0.githubusercontent.com/u/11093090?v=3&s=115" width="115"><br><sub>@gabrielboliveira</sub>](https://github.com/gabrielboliveira) | [<img src="https://avatars3.githubusercontent.com/u/17432496?v=3&s=115" width="115"><br><sub>@nkabz</sub>](https://github.com/nkabz) |
 |:-:|:-:|
